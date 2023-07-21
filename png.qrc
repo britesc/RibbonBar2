@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/Images/png/about.png</file>
+        <file>resources/Images/png/android.png</file>
+        <file>resources/Images/png/arduino.png</file>
+        <file>resources/Images/png/arrowdown.png</file>
+        <file>resources/Images/png/arrowup.png</file>
+        <file>resources/Images/png/bash.png</file>
+        <file>resources/Images/png/c.png</file>
+        <file>resources/Images/png/c++.png</file>
+        <file>resources/Images/png/cmake.png</file>
+        <file>resources/Images/png/copy.png</file>
+        <file>resources/Images/png/css.png</file>
+        <file>resources/Images/png/doxygen.png</file>
+        <file>resources/Images/png/exit.png</file>
+        <file>resources/Images/png/git.png</file>
+        <file>resources/Images/png/github.png</file>
+        <file>resources/Images/png/grafviz.png</file>
+        <file>resources/Images/png/help.png</file>
+        <file>resources/Images/png/html.png</file>
+        <file>resources/Images/png/images.png</file>
+        <file>resources/Images/png/ios.png</file>
+        <file>resources/Images/png/java.png</file>
+        <file>resources/Images/png/kotlin.png</file>
+        <file>resources/Images/png/list.png</file>
+        <file>resources/Images/png/load.png</file>
+        <file>resources/Images/png/mysql.png</file>
+        <file>resources/Images/png/paste.png</file>
+        <file>resources/Images/png/php.png</file>
+        <file>resources/Images/png/postgres.png</file>
+        <file>resources/Images/png/projectionist.png</file>
+        <file>resources/Images/png/python.png</file>
+        <file>resources/Images/png/qt.png</file>
+        <file>resources/Images/png/qtabout.png</file>
+        <file>resources/Images/png/reset.png</file>
+        <file>resources/Images/png/sqllite.png</file>
+        <file>resources/Images/png/undo.png</file>
+        <file>resources/Images/png/vscode.png</file>
+        <file>resources/Images/png/write.png</file>
+        <file>resources/Images/png/www.png</file>
+        <file>resources/Images/png/blank.png</file>
+    </qresource>
+</RCC>

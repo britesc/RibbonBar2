@@ -7,5 +7,10 @@
 			"name": "RibbonBar2",
 			"path": "."
 		}
-	]
+	],
+	"extensions": {
+		"recommendations": [
+			"leonhard-s.python-sphinx-highlight"
+		]
+	}
 }
